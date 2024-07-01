@@ -1,0 +1,13 @@
+# job/class wishes
+# 'name' 'job/class1' 'job/class2' ... 
+# number of names can be more than number of people needed for raid
+# example for ffxiv:
+gamer pld war blm smn rpr sam pic
+dude war pld rdm
+guy vpr
+gal pic sch
+dog whm dnc
+god blm smn
+cat ast sch
+someone sge whm
+nobody blm

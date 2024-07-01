@@ -1,0 +1,14 @@
+# rules for comps
+# 'role' ('role2' 'role3' ...) '</<=/=/>=/>' 'number' 
+# 'a' reserved for all, meaning how many players need to play, default is the number of people in jobwish.txt, if the rule was not given and the rule can only be used with '='
+# 'nd' reserved for no duplicate jobs/classes, so default is that duplicates are allowed
+# example for ffxiv:
+a = 8
+nd
+t = 2
+rh = 1
+sh = 1
+m >= 1
+r >= 1
+c >= 1
+c r m = 4

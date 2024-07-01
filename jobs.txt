@@ -1,0 +1,26 @@
+# jobs/classes and their roles
+# 'job/class' 'role' 
+# role mark 'a' reserved for all
+# role mark 'nd' reserved for no duplicates
+# example for ffxiv:
+war t
+pld t
+drk t
+gnb t
+whm rh
+sch sh
+ast rh
+sge sh
+blm c
+smn c
+rdm c
+pic c
+mch r
+brd r
+dnc r
+sam m
+rpr m
+drg m
+nin m
+vpr m
+mnk m
